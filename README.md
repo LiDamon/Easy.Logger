@@ -43,7 +43,7 @@ logger = logService.GetLogger("Paradise");
 logger.Debug("I am in Paradise!");
 ```
 
-The above logging results in the the following log entries (based on the [sample](https://github.com/NimaAra/Easy.Logger/blob/master/Easy.Logger/sample-log4net.config) config file):
+The above logging results in the the following log entries (based on the [sample](https://github.com/NimaAra/Easy.Logger/blob/master/src/Easy.Logger/sample-log4net.config) config file):
 
 ```
 2016-06-29 00:11:24,590 [DEBUG] [ 1] Program - I am in Main!
