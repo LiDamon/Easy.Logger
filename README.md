@@ -1,8 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/k6ng7qdsd30c3nep?svg=true)](https://ci.appveyor.com/project/NimaAra/easy-logger)
 
 # Easy Logger
-A modern, high performance, cross platform wrapper around Log4Net.
-
 Supports _.Net Core_ (_.Net 4_ & _netstandard1.3_) running on:
 * .Net Core
 * .Net Framework 4 and above
